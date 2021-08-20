@@ -1,4 +1,4 @@
-package com.githubjuliocesarcs2004.citiesapi.staties;
+package com.githubjuliocesarcs2004.citiesapi.states;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
